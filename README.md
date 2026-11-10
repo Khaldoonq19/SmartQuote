@@ -6,6 +6,14 @@ Customers submit support, incident, or enhancement tickets. The system automatic
 
 Live: https://smartquote.zayeer.dev
 
+## Portfolio overview - Khaldoon Qasim
+
+SmartQuote is a **team university project** for GIACOM. My contribution focused on React/TypeScript frontend work: login, customer dashboards, ticket submission and administrator workflows. I also contributed to requirements, user stories and testing, and coordinated Sprint 2. The backend, cloud infrastructure and ML pipeline described below represent the wider team's work, not individual ownership of the entire stack.
+
+**Start here:** [my contribution and a code walkthrough](docs/PORTFOLIO.md). The walkthrough links to the current implementation and describes a short demonstration using fictional data.
+
+**Project context:** an educational client project; this repository is not evidence of a commercial production deployment. The live link above is listed by the project; availability and access may vary.
+
 ---
 
 ## Table of Contents
